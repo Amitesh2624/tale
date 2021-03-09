@@ -7,7 +7,8 @@ tags: Politics
 ---
 
 Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.
-`<br>`
+
+
 ![Image with caption](https://timesofindia.indiatimes.com/photo/58944050.cms "IIT Delhi")
 _IIT Delhi's Campus_
 
