@@ -22,6 +22,7 @@ _IIT Delhi's Campus_
 - Ownership of autonomous economic establishments follow the caste hierarchy.
 - Upper-caste people are the most likely to be employed in formal white-collar jobs.
 - Economic well-being, a statistic that includes financial conditions, accesibility to ammenities among other factors show that SCs and STs are most likely to be poor.
+<br>
 Source: [The Many Shades of Caste-Inequality in India.](https://theprint.in/opinion/education-levels-of-sc-st-obc-rising-a-new-study-looks-at-caste-gap-in-jobs-income-too/606200/)
 
 
