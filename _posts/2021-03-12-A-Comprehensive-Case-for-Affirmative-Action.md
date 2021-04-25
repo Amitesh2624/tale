@@ -9,6 +9,8 @@ tags: Politics
 ![Image with caption](https://images.unsplash.com/20/cambridge.JPG?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1030&q=80 "Cambridge University")
 _Cambridge University_
 
+<br> 
+
 As people of my high-school class get closer and closer to applying to colleges, I have been witnessing a rise in opinions against Affirmative Action around me. This is possibly
 because my friends aim to justify their possible (and probable) failure in the process by means of invalidating other students from different communities. I believe I have relevant experience when it comes to debunking anti-reservation or affirmative action arguments, simply because of the countless number of times I find myself amidst an affirmative-action diss-show. In this post, I'll be building on some things that anti-reservation folks can think about.
 <br>
