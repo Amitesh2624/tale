@@ -1,5 +1,8 @@
 ---
 layout: post
+
+![Image with caption](https://images.unsplash.com/20/cambridge.JPG?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1030&q=80 "Cambridge University")
+_Cambridge University_
 title:  "A Comprehensive Case for Affirmative Action"
 author: "Amitesh"
 comments: false
@@ -15,8 +18,6 @@ marginalisation in India. Business Standard reports that [top 10% upper caste ho
 
 <br>
 
-![Image with caption](https://images.unsplash.com/20/cambridge.JPG?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1030&q=80 "Cambridge University")
-_Cambridge University_
 
 ## Caste-based Statistics:
 - Ownership of autonomous economic establishments follow the caste hierarchy.
