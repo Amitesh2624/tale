@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Comprehensive Case for Affirmative Action"
+title:  "A Proof-driven Case for Affirmative Action"
 author: "Amitesh"
 comments: false
 tags: Politics
