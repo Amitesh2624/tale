@@ -1,26 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-author: "Jekyll"
-tags: Jekyll
+title:  "Why the IT Rules are troublesome"
+author: "Amitesh"
+tags: Politics
 ---
+On 25th February, 2021, The Government of India announced the Information Technology (IT) rules. The rules primarily focus on regulating the behaviour of OTT platforms like Netflix & Hotstar and platforms that it terms as ‘social-media intermediaries’. These intermediaries include Instagram, Facebook, and Twitter etc. The rules are problematic for a few reasons:
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Rule 3 (1) (b) (vii) stipulates that the social media intermediaries must regulate the users such that no action that is threatens the the unity, integrity, defence, security or sovereignty of India, friendly relations with foreign States, or public order & offer punishment and reminders to users that indulge in such actions. This is particularly problematic because multi-billion dollar technology corporations cannot be trusted with making decisions of such sensitive nature. I present to you a simple thought experiment:
+The IT rules have made the lives of OTT platforms and social media platforms significantly difficult.
+These platforms showed resistance at first but will ultimately comply with the policies because India represents a sizable portion of their user base.
+At this point, say there is a lacuna in these platforms’ compliance with the policy or a different policy; is the Government in greater power to preserve these corporations’ abilities to earn profit in India and capitalize on the growing digital population of India or the end user who is supposedly ‘indulging in activity that threatens the unity of India’.
+As you see, the corporations cannot be trusted with being impartial in their assessments of users. They will simply & subtly eliminate dissent from the digital landscape, thus making the government side with them, and in hopes of the government pushing out favourable legislation.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Rule 3 (1) (d) demands that the social media intermediary remove information that is considered unlawful by the governmental body within 36 hours of a notice of the same offered by the said body. In the past 2 years, we have seen very closely how the current Indian government’s idea of illegality is highly correlated with dissent. Whether it be the fact that upwards of 80% of NSA prisoners come from the BJP ruled states of Uttar Pradesh and Madhya Pradesh, the silencing of dissent in Kashmir by employing use of Internet shutdowns, the silencing of dissent in Assam through UAPA, the government has made it awfully clear that it WILL find a way to prove actions deleterious to its own public perception as unlawful, even if it includes the conjuring up of bogus legislations like the UAPA. During the harsh crackdown on physical dissent as seen in Shaheen Bagh & more recently Farmer’s protests, a large part of the opposition in India has found solace in reaching a large audience and influencing them through social-media. Granting power to the government, power so grossly strengthening that it can get any arbitrary post from a social media platform removed within 36 hours of it noticing it is the centralisation of power that India doesn’t need.
 
-Jekyll also offers powerful support for code snippets: like these
+Rule 4 (4) requires all social media intermediaries to use Automated tools for the detection of child-rape or abuse. This is seriously damaging for the end user’s privacy because there is no accountability such that these multi billion dollar corporations don’t use the data it collects and tests for its models for its own business use. Chances are that they already employ technologies like these, but the IT rules validate the usage of technologies that have not been tested rigorously for implicit bias, functional creeps & privacy protection for the benefit of an institution. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
