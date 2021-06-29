@@ -13,8 +13,6 @@ E2EE or End-to-End encryption is a type of communication system where the data i
 <br>
 
 However, with the induction of the new IT rules, Signal is identified as a Social media intermediary and has to comply with the rules formed by the government. Rules that many experts have deemed to be [disproportionate and unnecessary](https://www.hindustantimes.com/india-news/messaging-application-signal-not-in-compliance-with-new-rules-say-officials-101624508925464.html). Compliance with these rules might put the very pride of the Signal App, its advanced security, at stake. The IT rules stipulate that a social media intermediary, which Signal is, has to submit routine records of activity on the platform and foster the ability to produce the originator of a widely circulated message when demanded to do so by the government. In essence, the end-to-end encryption of Signal is at stake. The government now wants not only the sender and receiver to have access to certain messages, but also the service provider Signal. 
-{% highlight markdown %}
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 <br> 
 <br>
 
