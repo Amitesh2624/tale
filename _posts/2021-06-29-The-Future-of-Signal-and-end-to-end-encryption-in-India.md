@@ -2,7 +2,7 @@
 layout: post
 title: "The Future of Signal and End-to-End Encryption in India"
 author: "Amitesh"
-tags: Technology, Politics
+tags: Technology Politics
 ---
 ![Image with caption](https://media.wired.com/photos/5fb82d95553098d62122bc55/16:9/w_2400,c_limit/google-encryption.jpg)
 _End to End Encryption, Credits: The Wired_
