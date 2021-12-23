@@ -37,8 +37,16 @@ I would disagree. The only conceivable incentive for acting selfishly in an econ
 <br>
 
 There might exist a majority-minority relation of non-psychopaths-psychopaths, but there will also exist a non mutually exclusive majority-minority relation among races, genders, sexualities, and nationalities. The human nature of individuality also results in tribalism. A psychopath belonging to a tribe with one identity will not indulge in actions against that very tribe because their individuality depends not on the existence of the psychopathic group but the tribe itself.
+
 <br>
+
 In other words, all of us are a majority in some aspects, and a minority in others. No particular minority will be stronger than any other and the reductionist approach which suggests a racemisation of power doesn’t exist. 
+
 <br>
-The actions of the highly intelligent group of psychopaths that make up for maybe 0.01-0.02% of the economy will be counteracted by the actions of the pther highly intelligent group of scientists and political scientists acting in their self interests. Another flaw in the argument is its assumption of the ability of people to societally manipulate others out of selfishness. Selfish manipulation of the masses is much easier in a capitalist set-up since the proletariat is deprived and desperate. In a socialist economy, most people would be unwilling to organise in favour of someone because they have no incentive for doing so. Many 200 IQ scientists are unable to convince people of the non existence of God, even though theism is a completely unfounded belief, how will a similar group of people be able to convince people who are already comfortable where they are to lose out on their quality of life for the betterment of the smaller high intelligence minority. Moreover, the likelihood of all high intelligence members forming one homogenous majority-minority relationship is converging to 0.
+
+The actions of the highly intelligent group of psychopaths that make up for maybe 0.01-0.02% of the economy will be counteracted by the actions of the pther highly intelligent group of scientists and political scientists acting in their self interests. Another flaw in the argument is its assumption of the ability of people to societally manipulate others out of selfishness. Selfish manipulation of the masses is much easier in a capitalist set-up since the proletariat is deprived and desperate. In a socialist economy, most people would be unwilling to organise in favour of someone because they have no incentive for doing so. 
+
+<br>
+
+Many high intelligence scientists are unable to convince people of the non existence of God, even though theism is a completely unfounded belief, how will a similar group of people be able to convince people who are already comfortable where they are to lose out on their quality of life for the betterment of the smaller high intelligence minority. Moreover, the likelihood of all high intelligence members forming one homogenous majority-minority relationship is converging to 0.
 
