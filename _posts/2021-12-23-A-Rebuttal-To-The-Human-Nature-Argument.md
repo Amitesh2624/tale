@@ -44,7 +44,7 @@ In other words, all of us are a majority in some aspects, and a minority in othe
 
 <br>
 
-The actions of the highly intelligent group of psychopaths that make up for maybe 0.01-0.02% of the economy will be counteracted by the actions of the pther highly intelligent group of scientists and political scientists acting in their self interests. Another flaw in the argument is its assumption of the ability of people to societally manipulate others out of selfishness. Selfish manipulation of the masses is much easier in a capitalist set-up since the proletariat is deprived and desperate. In a socialist economy, most people would be unwilling to organise in favour of someone because they have no incentive for doing so. 
+The actions of the highly intelligent group of psychopaths that make up for maybe 0.01-0.02% of the economy will be counteracted by the actions of the other highly intelligent group of scientists and political scientists acting in their self interests. Another flaw in the argument is its assumption of the ability of people to societally manipulate others out of selfishness. Selfish manipulation of the masses is much easier in a capitalist set-up since the proletariat is deprived and desperate. In a socialist economy, most people would be unwilling to organise in favour of someone because they have no incentive for doing so. 
 
 <br>
 
