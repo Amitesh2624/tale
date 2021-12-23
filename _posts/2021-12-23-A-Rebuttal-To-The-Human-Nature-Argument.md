@@ -12,7 +12,6 @@ The Human Nature argument or its variants simply put are:
 “A selfish somebody with adequate intelligence/firepower etc acting out of self interest can restructure the entire distribution of power and ultimately turn a socialist democracy into an oligarchy.” Other variants of the argument include a collective of very able like-minded minorities being the actors.
 
 <br> 
-<br>
 
 The argument assumes the stance of psychological egoism. Though theory on psychological egoism extends to deeds of altruism, it is not conclusive if humans are inherently selfish. A more important distinction would be one between acting out of self interest and acting selfishly. The reference to the word selfish implies the maximisation of one’s own gain at the expense of somebody else, i.e the selfish person is better off whereas the other person is worse off.
 <br> 
@@ -22,13 +21,21 @@ I believe that human nature is to be self interested, and not necessarily selfis
 <br>
 <br>
 > Since people in a socialist economy are all equally empowered, the probability of somebody acting out of grave selfishness reduces sharply. They simply won’t feel the need to do so.
+
 <br>
+
 > People can be both a part of a majority and minority at the same time. If one minority collective is trying to gain access to more power, its members being also a part of some other distinct majority will be losing power. Therefore, this reductionism does not work.
+
 <br>
+
 A counter argument to bullet 1 would be the existence of a few “bad apples.” It is true that a select few people in the economy might be born with psychological predispositions urging them to act selfishly. A collective of such people, the argument is, would ruin this utopia.
+
 <br>
+
 I would disagree. The only conceivable incentive for acting selfishly in an economy as such would be clinical psychopathy. Maybe 1-2% of actors in the economy cannot resist their urge to amass power and wealth but they are by far a very weak minority. Serious doubts can be casted on both the ability of this minority to be able to exploit others, as well as their ability to manipulate the majority. This argument also greatly reduces the complexities of collective interactions in society. 
+
 <br>
+
 There might exist a majority-minority relation of non-psychopaths-psychopaths, but there will also exist a non mutually exclusive majority-minority relation among races, genders, sexualities, and nationalities. The human nature of individuality also results in tribalism. A psychopath belonging to a tribe with one identity will not indulge in actions against that very tribe because their individuality depends not on the existence of the psychopathic group but the tribe itself.
 <br>
 In other words, all of us are a majority in some aspects, and a minority in others. No particular minority will be stronger than any other and the reductionist approach which suggests a racemisation of power doesn’t exist. 
